@@ -16,3 +16,9 @@ This enhancement to the spec includes documentation taken directly from Apple's 
 ## How
 
 The spec document was updated using [Apicurio Studio](https://www.apicur.io/studio/), a fantastic web-based OpenAPI editor.  If you haven't made use of it, I highly recommend checking it out.
+
+## Release Notes
+
+### Version 1.2
+
+An initial release targeting v1.2 of Apple's App Store Connect API.
